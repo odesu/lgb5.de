@@ -1,0 +1,25 @@
+body.pages.home {
+	> .columns {
+		margin: 0 auto;
+		display: table;
+
+		> .column {
+			display: table-cell;
+			width: 300px;
+			min-width: 300px;
+			max-width: 300px;
+		}
+
+		> .column.c1 {
+			background-color: lightcoral;
+		}
+
+		> .column.c2 {
+			background-color: lightseagreen;
+		}
+
+		> .column.c3 {
+			background-color: lightsalmon;
+		}
+	}
+}

@@ -6,7 +6,7 @@
 		<%= javascript_include_tag :frontend %>
 		<%= csrf_meta_tags %>
 	</head>
-	<body>
+	<body class="<%= params[:controller].gsub('/', ' ') %> <%= params[:action] %>">
 		<%= yield %>
 	</body>
 </html>
