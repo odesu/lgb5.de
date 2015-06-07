@@ -1,4 +1,4 @@
-#/log
-#/tmp
+/log
+/tmp
 config/database.yml
 config/secrets.yml
