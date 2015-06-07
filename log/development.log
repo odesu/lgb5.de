@@ -1,7 +1,0 @@
-
-
-Started GET "/lgb5.de/v2/public/" for 10.0.2.2 at 2015-05-25 16:36:41 +0200
-Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
-Processing by Rails::WelcomeController#index as HTML
-  Rendered /usr/local/rvm/gems/ruby-2.1.6@global/gems/railties-4.2.1/lib/rails/templates/rails/welcome/index.html.erb (14.7ms)
-Completed 200 OK in 69ms (Views: 48.0ms | ActiveRecord: 0.0ms)
