@@ -13,8 +13,6 @@ set :deploy_to, '/home/www/applications/dev.lgb5.de'
 set :keep_releases, 5
 set :format, :pretty
 set :log_level, :debug
-
-set :scm, :svn
 set :repo_url, 'https://github.com/odesu/lgb5.de.git'
 
 # Default value for :linked_files is []
