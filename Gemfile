@@ -2,10 +2,10 @@ source 'https://rubygems.org'
 
 gem 'rails', '4.2.1'
 gem 'mysql2', '0.3.18'
+gem 'jquery-rails', '4.0.3'
 
 group :assets do
 	gem 'sass-rails', '5.0.3'
-	gem 'jquery-rails', '4.0.3'
 	gem 'uglifier', '2.7.1'
 end
 
