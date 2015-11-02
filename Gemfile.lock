@@ -166,7 +166,7 @@ DEPENDENCIES
   execjs (= 2.6.0)
   jquery-rails (= 4.0.5)
   kgio (= 2.10.0)
-  mysql2 (~> 0.3.18)
+  mysql2 (~> 0.3.20)
   rails (= 4.2.4)
   sass-rails (= 5.0.4)
   sdoc (= 0.4.1)
