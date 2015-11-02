@@ -1,7 +1,8 @@
 source 'https://rubygems.org'
 
 gem 'rails', '4.2.4'
-gem 'mysql2', '0.4.1'
+#gem 'mysql2', '0.4.1' TODO: use when rails fix available
+gem 'mysql2', '~> 0.3.20'
 gem 'jquery-rails', '4.0.5'
 
 group :assets do
